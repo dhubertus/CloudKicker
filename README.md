@@ -11,7 +11,7 @@ View it [here](https://dhubertus.github.io/CloudKicker/)
 git clone --> npm install --> npm start
 
 ## Reflection
-CloudKicker was a four day project and is the first app I built in React JS as well as my first encounter with handling asynchronous fetch calls. It utilizes Weather Underground’s API to render on demand weather forecasts to a stylish and accessible user interface. In addition to using React JS we also used Enzyme to thoroughly test our application.
+CloudKicker was a four day project from my second module at the Turing School of Software and Design. It is the first app I built in React JS as well as my first encounter with handling asynchronous fetch calls. It utilizes Weather Underground’s API to render on demand weather forecasts to a stylish and accessible user interface. In addition to using React JS we also used Enzyme to thoroughly test our application.
  
 The main issues encountered during this project were learning how to properly manage state, build proper react components, breakout functionality into additional components when one component had too much responsibility, and all in all grasping a deeper understanding of how React functions.
 
