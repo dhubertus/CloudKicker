@@ -1,13 +1,8 @@
-# CloudKicker WeatherForecast App  
-
-Weather forecast app built in React JS and tested with Enzyme. It utilizes Weather Underground’s API to render on demand weather forecasts to a stylish and accessible user interface.
-
-View it [here](https://adamj1232.github.io/CloudKicker-WeatherForecast-ReactProject/)
 ## CloudKicker WeatherForecast App
 ## Project Status
 CloudKicker’s functionality and design has been completed including responsive design and autocomplete for user input. 
 
-View it [here](https://adamj1232.github.io/CloudKicker-WeatherForecast-ReactProject/)
+View it [here](https://dhubertus.github.io/CloudKicker/)
 
 ## Project Screen Shot
 <img width="1196" alt="cloud-kicker copy" src="https://user-images.githubusercontent.com/25044263/27404423-3d6e8202-568b-11e7-9734-1c2eff912dae.png">
